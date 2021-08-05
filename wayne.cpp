@@ -23,6 +23,7 @@ int *sort_array(int array[], int size)
 
 int main()
 {
+    std::cout<< "Veranderung ?" >>std::endl;
     int numb = 0;
     std::cout << "Enter Size of Array" << std::endl;
     std::cin >> numb;
